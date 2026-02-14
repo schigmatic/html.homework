@@ -1,0 +1,44 @@
+body {
+  background-color: #374151;
+}
+.headLink {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 18px;
+}
+.heroForm {
+  background-color: #1f293799;
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 16px;
+}
+h1 {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+}
+.bodyname {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+}
+.maininfo {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+}
+.main2Info {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+}
+.footerInfo {
+  color: #ffffff93;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+}
